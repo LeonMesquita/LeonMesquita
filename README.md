@@ -13,8 +13,7 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 </br>
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmesquita&show_icons=true&locale=en&layout=compact" alt="leonmesquita" /></p>
-</br>
-</br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonmesquita&show_icons=true&locale=en" alt="leonmesquita" /></p>
 
 #### Contact me:
