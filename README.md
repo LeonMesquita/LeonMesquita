@@ -3,6 +3,8 @@
 My name is Leonardo Mesquita, I live in Brazil and i'm 24 years old. I am a Computer Science student at **UESPI (Universidade Estadual do Piauí)** and also i'm a Full Stack student at **Driven Education** bootcamp.
 
 For the last few months, I've been working with **Dart/Flutter** on mobile applications, but now my main objective is to become a Full Stack developer on Web applications.
+</br>
+</br>
 
 ### Languages and Tools:
 
@@ -14,10 +16,10 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 </br>
 
 <div style="display: flex; justify-content: center; align-items: center; background-color: red; flex-direction: row">
-    <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmesquita&show_icons=true&locale=en&layout=compact" alt="leonmesquita"  style="width: 500px; padding-bottom: 100px;"/></div>
+    <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmesquita&show_icons=true&locale=en&layout=compact" alt="leonmesquita"  style="width: 500px;"/></div>
 </br>
 </br>
-  <div  >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=leonmesquita&show_icons=true&locale=en" alt="leonmesquita" style="width: 500px; margin-top: 100px;"/></div>
+  <div  >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=leonmesquita&show_icons=true&locale=en" alt="leonmesquita" style="width: 500px;"/></div>
 </div>
 
 
