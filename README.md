@@ -16,7 +16,7 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 <div style="display: flex; justify-content: center; align-items: center; background-color: red; flex-direction: row">
     <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmesquita&show_icons=true&locale=en&layout=compact" alt="leonmesquita"  style="width: 500px; padding-bottom: 100px;"/></div>
 
-  <div>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=leonmesquita&show_icons=true&locale=en" alt="leonmesquita" /></div>
+  <div  style="width: 500px; margin-top: 100px;">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=leonmesquita&show_icons=true&locale=en" alt="leonmesquita" /></div>
 </div>
 
 
