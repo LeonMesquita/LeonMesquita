@@ -15,6 +15,6 @@ I've been working with **Dart/Flutter** on mobile applications for the last few 
 <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 </br></br>
 
-#### You can also find me on:
+#### Contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)](https://www.linkedin.com/in/leonardo-mesquita-844ba01b7/)
