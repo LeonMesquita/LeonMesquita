@@ -12,9 +12,13 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 </br>
 </br>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmesquita&show_icons=true&locale=en&layout=compact" alt="leonmesquita"  style="width: 500px;"/></div>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonmesquita&show_icons=true&locale=en" alt="leonmesquita" /></div>
+<div style="display: flex; justify-content: center; align-items: center; background-color: red; flex-direction: row">
+    <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmesquita&show_icons=true&locale=en&layout=compact" alt="leonmesquita"  style="width: 500px; padding-bottom: 100px;"/></div>
+
+  <div>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=leonmesquita&show_icons=true&locale=en" alt="leonmesquita" /></div>
+</div>
+
 
 #### Contact me:
 
