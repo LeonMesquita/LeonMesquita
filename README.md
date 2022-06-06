@@ -23,7 +23,6 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 ##
 
 
-### My GitHub stats:
 <div align="center">
   <a href="https://github.com/leonmesquita">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonmesquita&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -34,6 +33,10 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 ### Contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)](https://www.linkedin.com/in/leonardo-mesquita-844ba01b7/)
+
+  ##
+  
+  
 
 
 
