@@ -34,9 +34,6 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)](https://www.linkedin.com/in/leonardo-mesquita-844ba01b7/)
 
-  ##
-  
-    ![Snake animation](https://github.com/leonmesquita/leonmesquita/blob/output/github-contribution-grid-snake.svg)
 
 
 
