@@ -26,12 +26,12 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 </br>
 
 <div align="center">
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmesquita&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="leonmesquita"  style="width: 500px;"/>
+  <a href="https://github.com/leonmesquita">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonmesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonmesquita&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div  >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=leonmesquita&show_icons=true&locale=en&theme=highcontrast" alt="leonmesquita" style="width: 500px;"/></div>
-</div>
-
-
+  
+  
 #### Contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)](https://www.linkedin.com/in/leonardo-mesquita-844ba01b7/)
