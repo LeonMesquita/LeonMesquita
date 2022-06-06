@@ -36,7 +36,8 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 
   ##
   
-  
+    ![Snake animation](https://github.com/leonmesquita/leonmesquita/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
