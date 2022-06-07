@@ -1,5 +1,7 @@
 ## Hello, World!! 👋
 
+###A little about me:
+
 My name is Leonardo Mesquita, I live in Brazil and i'm 24 years old. I am a Computer Science student at **UESPI (Universidade Estadual do Piauí)** and also i'm a Full Stack student at [Driven Education](https://www.driven.com.br/) bootcamp.
 
 For the last few months, I've been working with **Dart/Flutter** on mobile applications, but now my main objective is to become a Full Stack developer on Web applications.
@@ -30,13 +32,8 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 </div>
   
 ##
-### Contact me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)](https://www.linkedin.com/in/leonardo-mesquita-844ba01b7/)
 
 
-
-##
   
   <div id="badges"  align="center">
 
@@ -46,7 +43,9 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 
 
 
+### Contact me:
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)](https://www.linkedin.com/in/leonardo-mesquita-844ba01b7/)
 
 
 
