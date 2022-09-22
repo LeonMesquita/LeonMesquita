@@ -25,7 +25,7 @@ For the last few months, I've been working with **Dart/Flutter** on mobile appli
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="60"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.portalgsti.com.br/media/uploads/fernandopalma/postgresql.png" alt="postgresql" width="40" height="60"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.portalgsti.com.br/media/uploads/fernandopalma/postgresql.png" alt="postgresql" width="60" height="45"/> </a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/87724523063a50fdb4afb3e99a06d7c23d5853c41226e8f48b3ef5035db0e894/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67" alt="prisma" width="100" height="60"/> </a>
 <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/300/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="jest" width="90" height="60"/> </a>
 
