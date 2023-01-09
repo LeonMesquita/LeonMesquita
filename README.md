@@ -1,13 +1,11 @@
 ## Hello, World!! 👋
 
-### A little about me:
+### Um pouco sobre mim:
 
-My name is Leonardo Mesquita, I live in Brazil and i'm 24 years old. I am a Computer Science student at **UESPI (Universidade Estadual do Piauí)** and also i'm a Full Stack student at [Driven Education](https://www.driven.com.br/) bootcamp.
-
-For the last few months, I've been working with **Dart/Flutter** on mobile applications, but now my main objective is to become a Full Stack developer on Web applications.
+Me chamo Leonardo Mesquita, tenho 24 anos, atualmente estou cursando o 6° período de Ciência da Computação na UESPI (Universidade Estadual do Piauí) e recentemente finalizei a formação na Driven Education, um bootcamp de desenvolvimento Web FullStack. Sou desenvolvedor FullStack com maior afinidade para o Back-End, possuo experiência com desenvolvimento de APIs em Tyescript, Node.js, Express.js, Nest.js e aplicações Front-End com React.js e Styled Components. Também tenho experiência em desenvolvimento mobile com Flutter e recentemente comecei a estudar Java.
 
 ##
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
