@@ -49,7 +49,7 @@ Me chamo Leonardo Mesquita, tenho 24 anos, atualmente estou cursando o 6° perí
 
 
 
-### Contact me:
+### Entre em contato comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)](https://www.linkedin.com/in/leonardo-mesquita-844ba01b7/)
 
