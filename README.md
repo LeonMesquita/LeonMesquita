@@ -43,7 +43,7 @@ Me chamo Leonardo Mesquita, tenho 24 anos, atualmente estou cursando o 6° perí
   
   <div id="badges"  align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=leonmesquita&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leonmesquita&theme=react-dark&custom_title=My%20Contribution%20Graph&hide_border=true)](https://github.com/leonmesquita/github-readme-activity-graph)
 
 </div>
 
