@@ -2,7 +2,7 @@
 
 ### Um pouco sobre mim:
 
-Me chamo Leonardo Mesquita, tenho 25 anos, atualmente estou cursando o 7° período de Ciência da Computação na UESPI (Universidade Estadual do Piauí) e recentemente finalizei a formação na Driven Education, um bootcamp de desenvolvimento Web FullStack. Sou desenvolvedor FullStack com maior afinidade para o Back-End, possuo experiência com desenvolvimento de APIs em Tyescript, Node.js, Express.js, Nest.js e aplicações Front-End com React.js e Styled Components. Também tenho experiência em desenvolvimento mobile com Flutter e recentemente comecei a estudar Java e Spring Framework.
+Me chamo Leonardo Mesquita, tenho 25 anos e atualmente estou cursando o 7° período de Ciência da Computação na UESPI (Universidade Estadual do Piauí). Sou desenvolvedor FullStack com maior afinidade para o Back-End, possuo experiência com desenvolvimento de APIs em Express.js, Nest.js e aplicações Front-End com React.js e Styled Components. Também tenho experiência em desenvolvimento mobile com Flutter e recentemente comecei a estudar Java e Spring Framework.
 
 ##
 ### Linguagens e Ferramentas:
